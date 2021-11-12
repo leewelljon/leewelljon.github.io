@@ -26,39 +26,39 @@
 >
 > 3、正在安装中
 >
-> ![安装_3](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_3.png)
+> ![安装_3](..\Contexrt Capture Center安装教程.assets\安装_3.png)
 >
 > 4、接下来会弹出一个小窗口，点击 下一步（Next）即可
 >
-> ![安装_4](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_4.png)
+> ![安装_4](..\Contexrt Capture Center安装教程.assets\安装_4.png)
 >
 > 5、默认安装路径不要动，否则会影响后续的汉化工作。点击 下一步（Next）继续安装
 >
-> ![安装_5](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_5.png)
+> ![安装_5](..\Contexrt Capture Center安装教程.assets\安装_5.png)
 >
 > 6、点击 install 进行安装
 >
-> ![安装_6](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_6.png)
+> ![安装_6](..\Contexrt Capture Center安装教程.assets\安装_6.png)
 >
 > 7、安装中
 >
-> ![安装_7](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_7.png)
+> ![安装_7](..\Contexrt Capture Center安装教程.assets\安装_7.png)
 >
 > 8、安装完成，点击 Finish
 >
-> ![安装_8](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_8.png)
+> ![安装_8](..\Contexrt Capture Center安装教程.assets\安装_8.png)
 >
 > 9、不需要安装 python ，点击取消 （Cancel）即可
 >
-> ![安装_9](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_9.png)
+> ![安装_9](..\Contexrt Capture Center安装教程.assets\安装_9.png)
 >
 > 10、安装完成，点击 Close 关闭安装程序
 >
-> ![安装_10](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_10.png)
+> ![安装_10](..\Contexrt Capture Center安装教程.assets\安装_10.png)
 >
 > 11、此时你会发现电脑桌面上多出来四个图标，这就表示安装过程完成了
 >
-> ![安装_11](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\安装_11.png)
+> ![安装_11](..\Contexrt Capture Center安装教程.assets\安装_11.png)
 
 ------
 
@@ -70,9 +70,9 @@
 >
 > 将安装包 **破解文件** 文件夹下的两个文件复制替换到软件的安装目录即可完成破解
 >
-> ![破解_1](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\破解_1.png)
+> ![破解_1](..\Contexrt Capture Center安装教程.assets\破解_1.png)
 >
-> ![破解_2](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\破解_2.png)
+> ![破解_2](..\Contexrt Capture Center安装教程.assets\破解_2.png)
 
 ------
 
@@ -84,27 +84,27 @@
 >
 > 1、双击安装目录下的 **中文语言包.msi**
 >
-> ![汉化_1](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_1.png)
+> ![汉化_1](..\Contexrt Capture Center安装教程.assets\汉化_1.png)
 >
 > 2、点击 Next
 >
-> ![汉化_2](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_2.png)
+> ![汉化_2](..\Contexrt Capture Center安装教程.assets\汉化_2.png)
 >
 > 3、勾选 我接受...（I accept ...）, 点击Next
 >
-> ![汉化_3](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_3.png)
+> ![汉化_3](..\Contexrt Capture Center安装教程.assets\汉化_3.png)
 >
 > 4、继续点击 Next
 >
-> ![汉化_4](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_4.png)
+> ![汉化_4](..\Contexrt Capture Center安装教程.assets\汉化_4.png)
 >
 > 5、点击 Install
 >
-> ![汉化_5](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_5.png)
+> ![汉化_5](..\Contexrt Capture Center安装教程.assets\汉化_5.png)
 >
 > 6、点击 Finish 即可关闭中文语言包安装程序
 >
-> ![汉化_6](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\汉化_6.png)
+> ![汉化_6](..\Contexrt Capture Center安装教程.assets\汉化_6.png)
 
 ------
 
@@ -114,9 +114,9 @@
 >
 > 1、点击桌面上 **ContextCapture Center Master** 的图标
 >
-> ![完成_1](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\完成_1.png)
+> ![完成_1](..\Contexrt Capture Center安装教程.assets\完成_1.png)
 >
 > 2、点击 帮助>关于 即可看到汉化及破解已完成
 >
-> ![完成_2](C:\Users\LWQ\Desktop\Contexrt Capture Center安装教程.assets\完成_2.png)
+> ![完成_2](..\Contexrt Capture Center安装教程.assets\完成_2.png)
 
