@@ -1,12 +1,12 @@
 # Context Capture Center 安装教程
 
-**⚠本教程仅供学习交流使用**	[参考教程](https://blog.csdn.net/qq_38721452/article/details/103594714)
+**⚠本教程仅供学习交流使用**	<a href="https://blog.csdn.net/qq_38721452/article/details/103594714" target="_blank">参考教程</a>
 
 ------
 
 
 
-> **①下载** [【天翼云下载】](https://cloud.189.cn/web/share?code=JrqqYbJVVjqm) 
+> **①下载** <a href="https://cloud.189.cn/web/share?code=JrqqYbJVVjqm" target="_blank">【天翼云下载】</a>
 
 ------
 
